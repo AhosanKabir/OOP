@@ -1,0 +1,1 @@
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code around objects, which are instances of classes. It promotes modular, reusable, and maintainable code by emphasizing concepts like encapsulation, inheritance, and polymorphism. OOP allows for better modeling of real-world entities, making software development more efficient and intuitive.
